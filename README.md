@@ -71,7 +71,8 @@ This tab explores the reasons for churning among customers
 
 <h3>•	Churn Risk Analysis</h3>
 
-[Dashboard Preview]()
+[Dashboard Preview](https://github.com/IluyemiJoy/Bank-Churn-Analysis-using-PowerBI/blob/main/Churn%20Analysis%20Dashboard%20Demo.PNG)
+
 This tab profiles the customer churn risk
   -	The longer the customer stays the higher the tendency to churn
   -	Product holding and point earned have very weak hold on the churn rate
