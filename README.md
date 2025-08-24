@@ -52,6 +52,8 @@ This multifaceted dashboard provides a 360-degree view of the churn problem:
 
 <h3>•	Demographic Analysis</h3>
 
+[Dashboard Preview](https://github.com/IluyemiJoy/Bank-Churn-Analysis-using-PowerBI/blob/main/Demographic%20Analysis%20Dashboard%20Demo.PNG)
+
 This tab analyzes the “who” – the geographic and demographic composition of customers
   -	Customers from Germany exhibit a significantly higher churn rate compared to other countries.
   -	Males across all age groups were identified as having a disproportionately higher churn rate
