@@ -59,21 +59,20 @@ This tab analyzes the “who” – the geographic and demographic composition o
   -	Males across all age groups were identified as having a disproportionately higher churn rate
   -	Churning is significantly low across balances and almost equally distributed across all card types
 
-Dashboard Preview
 
 <h3>•	Behavior & Engagement Analysis</h3>
+
+[Dashboard Preview](https://github.com/IluyemiJoy/Bank-Churn-Analysis-using-PowerBI/blob/main/Behaviour%20and%20Engagement%20Analysis%20Dashboard%20Demo.PNG)
 
 This tab explores the reasons for churning among customers
   -	Customers with a Basic product holding have marked a significantly higher churn rate
   -	Overall, a larger percentage of the customers have laid a complaint which in turn leads to an alarming churn in customers that have made complains 
 
-Dashboard Preview
-
 
 <h3>•	Churn Risk Analysis</h3>
 
+[Dashboard Preview]()
 This tab profiles the customer churn risk
   -	The longer the customer stays the higher the tendency to churn
   -	Product holding and point earned have very weak hold on the churn rate
 
-Dashboard Preview
