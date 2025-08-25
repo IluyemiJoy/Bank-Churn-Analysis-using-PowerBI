@@ -6,7 +6,7 @@ A dynamic, interactive, multifaceted visualization tool built to explore bank cu
 
  <h3>•	Problem Statement</h3>
 
-  The bank is experiencing an alarming trend: growing number of customers are closing their accounts and leaving. This project aims to **Uncover the secret patterns** behind customer churn by analyzing demographics, customer behaviour and interactions to answer th critical question: **“Why are customers ghosting our bank?”
+  The bank is experiencing an alarming trend: growing number of customers are closing their accounts and leaving. This project aims to **Uncover the secret patterns** behind customer churn by analyzing demographics, customer behaviour and interactions to answer the critical question: **“Why are customers ghosting our bank?”**
 
   <h3>•	Objective:</h3>
   
@@ -24,6 +24,7 @@ The data was obtained online from Kaggle
 
 <h3>•	Tools Used</h3>
 The dashboard was built using the following tools and technologies
+
 -	**Power BI Desktop** – main data visualization platform used for report creation
 -	**Power Query** – Data transformation and cleaning layer for reshaping and preparing data
 -	**DAX (Data Analysis Expressions)** – Used for calculated measures
