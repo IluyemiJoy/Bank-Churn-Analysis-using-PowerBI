@@ -1,5 +1,8 @@
 # Bank-Churn-Analysis-using-PowerBI
 A dynamic, interactive, multifaceted visualization tool built to explore bank customers churn- focusing on demographics, behaviors, and churn risk profile
+
+<img width="1599" height="862" alt="Image" src="https://www.freepik.com/free-vector/bank-interior-with-cashiers-clients_13187559.htm#fromView=search&page=1&position=42&uuid=573a9ec0-ef2a-484c-b9d1-6a4976ebdceb&query=bank+Customer+churn" />
+
 ---
 
 <h2>1.	Project Overview</h2>
