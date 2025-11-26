@@ -77,7 +77,7 @@ This tab explores the reasons for churning among customers
 
 <h3>•	Churn Risk Analysis</h3>
 
-<img width="1599" height="862" alt="Image" src="https://github.com/IluyemiJoy/Bank-Churn-Analysis-using-PowerBI/blob/main/Churn%20Analysis%20Dashboard%20Demo.PNG)" />
+<img width="1599" height="862" alt="Image" src="https://github.com/IluyemiJoy/Bank-Churn-Analysis-using-PowerBI/blob/main/Churn%20Analysis%20Dashboard%20Demo.PNG" />
 
 [Dashboard Preview](https://github.com/IluyemiJoy/Bank-Churn-Analysis-using-PowerBI/blob/main/Churn%20Analysis%20Dashboard%20Demo.PNG)
 
